@@ -1,0 +1,6 @@
+name=input("Enter your name : ")
+year=int(input("Enter the year in which you ar born : "))
+month=input("Enter the month in which you are born : ")
+date=int(input("Enter the date on which you are born : "))
+print("Hello, ",name)
+print("You are born on",date,"th ",month,year)
