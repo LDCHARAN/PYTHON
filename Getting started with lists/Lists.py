@@ -1,6 +1,6 @@
 L=[]
 print(L)
-l=list()
+L=list()
 print(L)
 
 L=[9,1,20,9,3,5,9,20,2]
